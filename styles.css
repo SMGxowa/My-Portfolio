@@ -67,3 +67,13 @@ body {
   color: #fff;
   border-bottom-color: #fff;
 }
+
+header{
+  background: black;
+  opacity: 60%;
+}
+.scrolling{
+  background: black;
+  opacity: 60%;
+  transition: 0.5s;
+}
